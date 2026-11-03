@@ -55,11 +55,13 @@ You can play the latest production build of **In-the-Hero-s-Shadow** directly in
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & Media
 
-> *Explore dynamic environments, interactive zones, and engaging puzzle minigames.*
+> *In-game castle artwork, character sprites, and live gameplay preview.*
 
-![Screenshot Placeholder](./screenshots/screenshot.png)
+| Castle Environment | Character Asset | Gameplay Video Preview |
+| :---: | :---: | :---: |
+| ![Castle](./Assets/Asset/castle[1].png) | ![Character](./Assets/Asset/3a710574-ead7-4fdd-b693-8c9048245e06.png) | [🎥 Watch Gameplay Video](./Assets/Asset/e85f6705-bdff-4d9b-ae6b-a8ec549bcc83.mp4) |
 
 ---
 
@@ -72,6 +74,7 @@ You can play the latest production build of **In-the-Hero-s-Shadow** directly in
   - **Card Battles / Management:** Dynamic card UI and deck/hand management (`CardTMP.cs`, `CardButton.prefab`).
   - **Crow Catcher:** Action-oriented timing and spawning arcade mechanics (`CrowCatcher.cs`, `CrowSpawner.cs`).
 - **Zone & District Management:** Modular zone progression (`Zone.cs`, `ZoneManager.cs`) controlling player movement, unlocks, and interactions.
+- **Game State & Outcome Management:** Dedicated win and lose scene controllers (`WinSceneController.cs`, `LoseSceneController.cs`) managing score tabulation, progression loops, and transitions (`WinScene.unity`, `LoseScene.unity`).
 - **Web3 & Crypto Wallet Integration:** Seamless connection with Solana blockchain and IGC crypto wallet modules (`iDosGamesSDK`).
 - **Modern Unity Input System:** Responsive cross-platform controls (`Controls.cs`, `Controls.inputactions`).
 - **Polished UI & Audio Feedback:** TextMeshPro integration, dynamic main menus (`MainMenuUI.cs`), and scene transitions (`SceneLoader.cs`).
