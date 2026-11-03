@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Archive\\pr\\not_a_hero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6546137E-A6C6-E48D-510E-0F8D2EDD1B3B}|Assembly-CSharp.csproj|c:\\archive\\pr\\not_a_hero\\assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6546137E-A6C6-E48D-510E-0F8D2EDD1B3B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6546137E-A6C6-E48D-510E-0F8D2EDD1B3B}|Assembly-CSharp.csproj|c:\\archive\\pr\\not_a_hero\\assets\\scripts\\zonescripts\\armorcleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6546137E-A6C6-E48D-510E-0F8D2EDD1B3B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zonescripts\\armorcleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6546137E-A6C6-E48D-510E-0F8D2EDD1B3B}|Assembly-CSharp.csproj|C:\\Archive\\pr\\not_a_hero\\assets\\scripts\\characterscripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6546137E-A6C6-E48D-510E-0F8D2EDD1B3B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterscripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6546137E-A6C6-E48D-510E-0F8D2EDD1B3B}|Assembly-CSharp.csproj|C:\\Archive\\pr\\not_a_hero\\assets\\scripts\\characterscripts\\knightai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6546137E-A6C6-E48D-510E-0F8D2EDD1B3B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterscripts\\knightai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "C:\\Archive\\pr\\not_a_hero\\Assets\\Scripts\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUI.cs",
+              "ToolTip": "C:\\Archive\\pr\\not_a_hero\\Assets\\Scripts\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuUI.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:26:09.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KnightAI.cs",
+              "DocumentMoniker": "C:\\Archive\\pr\\not_a_hero\\Assets\\Scripts\\CharacterScripts\\KnightAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterScripts\\KnightAI.cs",
+              "ToolTip": "C:\\Archive\\pr\\not_a_hero\\Assets\\Scripts\\CharacterScripts\\KnightAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterScripts\\KnightAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:57:15.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Archive\\pr\\not_a_hero\\Assets\\Scripts\\CharacterScripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterScripts\\PlayerController.cs",
+              "ToolTip": "C:\\Archive\\pr\\not_a_hero\\Assets\\Scripts\\CharacterScripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterScripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:07:59.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArmorCleaner.cs",
+              "DocumentMoniker": "C:\\Archive\\pr\\not_a_hero\\Assets\\Scripts\\ZoneScripts\\ArmorCleaner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZoneScripts\\ArmorCleaner.cs",
+              "ToolTip": "C:\\Archive\\pr\\not_a_hero\\Assets\\Scripts\\ZoneScripts\\ArmorCleaner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZoneScripts\\ArmorCleaner.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:52:30.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
